@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cambio>
+  <Interaction>
+    <title>primeiro teste</title>
+    <audio>0.wav</audio>
+    <image>0.png</image>
+    <bpm>217</bpm>
+  </Interaction>
+  <Interaction>
+    <title>segundo teste</title>
+    <audio>1.wav</audio>
+    <image>1.png</image>
+    <bpm>224</bpm>
+  </Interaction>
+  <Interaction>
+    <title>teste 3</title>
+    <audio>2.wav</audio>
+    <image>2.png</image>
+    <bpm>172</bpm>
+  </Interaction>
+  <Interaction>
+    <title>4</title>
+    <audio>3.wav</audio>
+    <image>3.png</image>
+    <bpm>0</bpm>
+  </Interaction>
+</cambio>
